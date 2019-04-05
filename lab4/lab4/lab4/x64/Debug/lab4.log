@@ -1,0 +1,3 @@
+﻿  lab4.cpp
+c:\users\karla\desktop\lab4\lab4\lab4\lab4.cpp(43): error C2512: 'Child': no hay disponible un constructor predeterminado adecuado
+  c:\users\karla\desktop\lab4\lab4\lab4\lab4.cpp(10): note: vea la declaración de 'Child'
