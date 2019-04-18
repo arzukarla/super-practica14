@@ -1,0 +1,4 @@
+﻿  lavado de auto.cpp
+C:\Users\karla\Desktop\labo8.2\lavado de auto\lavado de auto\lavado de auto.cpp(53): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\karla\Desktop\labo8.2\lavado de auto\lavado de auto\lavado de auto.cpp(73): error C2065: 'comp_time': identificador no declarado
+C:\Users\karla\Desktop\labo8.2\lavado de auto\lavado de auto\lavado de auto.cpp(80): error C2065: 'comp_time': identificador no declarado
