@@ -1,0 +1,4 @@
+﻿  pch.cpp
+  tile.cpp
+c:\users\karla\desktop\tile\tile\tile\tile.cpp(35): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+  tile.vcxproj -> C:\Users\karla\Desktop\tile\tile\Debug\tile.exe
