@@ -1,0 +1,13 @@
+﻿  Compl.cpp
+C:\Users\karla\Desktop\compl\Compl\Compl\Compl.cpp(24): error C2535: 'Complex::Complex(void)': función miembro ya definida o declarada
+  C:\Users\karla\Desktop\compl\Compl\Compl\Compl.cpp(20): note: vea la declaración de 'Complex::Complex'
+C:\Users\karla\Desktop\compl\Compl\Compl\Compl.cpp(33): error C2535: 'Complex::Complex(double,double)': función miembro ya definida o declarada
+  C:\Users\karla\Desktop\compl\Compl\Compl\Compl.cpp(16): note: vea la declaración de 'Complex::Complex'
+C:\Users\karla\Desktop\compl\Compl\Compl\Compl.cpp(47): error C2561: 'Complex::add': la función debe devolver un valor
+  C:\Users\karla\Desktop\compl\Compl\Compl\Compl.cpp(43): note: vea la declaración de 'Complex::add'
+C:\Users\karla\Desktop\compl\Compl\Compl\Compl.cpp(54): error C2561: 'Complex::sub': la función debe devolver un valor
+  C:\Users\karla\Desktop\compl\Compl\Compl\Compl.cpp(50): note: vea la declaración de 'Complex::sub'
+C:\Users\karla\Desktop\compl\Compl\Compl\Compl.cpp(61): error C2561: 'Complex::mult': la función debe devolver un valor
+  C:\Users\karla\Desktop\compl\Compl\Compl\Compl.cpp(57): note: vea la declaración de 'Complex::mult'
+C:\Users\karla\Desktop\compl\Compl\Compl\Compl.cpp(68): error C2561: 'Complex::div': la función debe devolver un valor
+  C:\Users\karla\Desktop\compl\Compl\Compl\Compl.cpp(64): note: vea la declaración de 'Complex::div'
