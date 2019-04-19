@@ -1,0 +1,4 @@
+﻿  vector4.cpp
+C:\Users\karla\Desktop\vector4\vector4\vector4\vector4.cpp(19): error C2535: 'Vector::Vector(int,int,int)': función miembro ya definida o declarada
+  C:\Users\karla\Desktop\vector4\vector4\vector4\vector4.cpp(15): note: vea la declaración de 'Vector::Vector'
+C:\Users\karla\Desktop\vector4\vector4\vector4\vector4.cpp(32): warning C4244: 'return': conversión de 'double' a 'float'; posible pérdida de datos
