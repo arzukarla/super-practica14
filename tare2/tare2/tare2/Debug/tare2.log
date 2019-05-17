@@ -1,0 +1,4 @@
+﻿  tare2.cpp
+c:\users\karla\desktop\tare2\tare2\tare2\tare2.cpp(11): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+c:\users\karla\desktop\tare2\tare2\tare2\tare2.cpp(32): warning C4244: 'return': conversión de 'float' a 'int'; posible pérdida de datos
+  tare2.vcxproj -> C:\Users\karla\Desktop\tare2\tare2\Debug\tare2.exe
