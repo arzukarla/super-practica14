@@ -1,0 +1,3 @@
+﻿  vector4.cpp
+C:\Users\karla\Desktop\vector4.45\vector4\vector4\vector4.cpp(25): warning C4244: 'return': conversión de 'double' a 'float'; posible pérdida de datos
+  vector4.vcxproj -> C:\Users\karla\Desktop\vector4.45\vector4\Debug\vector4.exe
