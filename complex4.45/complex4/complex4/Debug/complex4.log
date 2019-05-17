@@ -1,0 +1,6 @@
+﻿  complex4.cpp
+C:\Users\karla\Desktop\complex4.45\complex4\complex4\complex4.cpp(44): warning C4129: 'p': secuencia de escape de carácter no reconocida
+C:\Users\karla\Desktop\complex4.45\complex4\complex4\complex4.cpp(46): warning C4129: 'p': secuencia de escape de carácter no reconocida
+C:\Users\karla\Desktop\complex4.45\complex4\complex4\complex4.cpp(131): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\karla\Desktop\complex4.45\complex4\complex4\complex4.cpp(146): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+  complex4.vcxproj -> C:\Users\karla\Desktop\complex4.45\complex4\Debug\complex4.exe
